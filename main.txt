@@ -27,6 +27,8 @@ def run_universe():
 
 def update_universe():
    if current_date() == -9 months:
+      # TODO(Earthcomputer): should this function be renamed so it's more PG?
+      # I mean it's what the Hebrew said...
       insert_sperm_into("Mary")
       Jesus_counter = Jesus_counter + 1
    else if get_country_by_name("USA").get_president() == "Trump" ...
