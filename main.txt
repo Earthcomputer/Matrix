@@ -1,0 +1,62 @@
+#####################################
+# THE MATRIX SOURCE CODE
+# Copyright (c) 4004 BC: God, later known as the Trinity.
+#####################################
+# WARNING:
+# THIS CODE CONTAINS THE SOURCE CODE OF THE UNIVERSE
+# ANY GLITCHES, BUGS OR EXPLOITS FOUND MUST NOT BE SHARED
+# WITH ANYONE
+#####################################
+# This code comes without warranty, and as such there are
+# no guarantees that will work. Use at your own and
+# everyone in the universe's risk.
+#####################################
+
+def main():
+   create_universe()
+   run_universe()
+   end_universe()
+
+def create_universe():
+   say "Let there be light!"
+   say "I see that the light is good"
+
+def run_universe():
+   while Jesus_counter < 2:
+      update_universe()
+
+def update_universe():
+   if current_date() == -9 months:
+      insert_sperm_into("Mary")
+      Jesus_counter = Jesus_counter + 1
+   else if get_country_by_name("USA").get_president() == "Trump" ...
+      and get_current_mood("Trump") == FURIOUS:
+         create_nuclear_fallout(get_planet_by_name("Earth"))
+         Jesus_counter = Jesus_counter + 1
+   else
+      normal_universe_update()
+
+def normal_universe_update():
+   gap_between_rich_and_poor = get_wealth(RICH) - get_wealth(POOR)
+   if gap_between_rich_and_poor > 1000000
+      create_recession()
+   else
+      add_wealth(RICH, 100)
+      add_wealth(POOR, -100)
+
+def add_wealth(is_rich, amount_of_wealth):
+   if not is_rich:
+      deduct_tax(amount_of_wealth)
+   add_wealth0(amount_of_wealth)
+
+def create_recession():
+   with all_businesses:
+      if random_chance() < 0.000001:
+         close_business()
+   get_philosophy_by_name("Communism").work_children_harder()
+   get_philosophy_by_name("Socialism").complain_loudly()
+   get_philosophy_by_name("Liberalism").be_powerless()
+   get_phisosophy_by_name("Capitalism").say "It's a fact of life"
+
+def end_universe():
+   cake()
